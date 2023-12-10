@@ -6,7 +6,7 @@ Hello! My name’s Junayet Shiblu. Passionate  MERN stack developer who loves ma
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=jsjunayet&theme=monokai" alt="GitHub Streak" />
-  </a> ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jsjunayet&show_icons=true)
+  </a> -![GitHub stats](https://github-readme-stats.vercel.app/api?username=jsjunayet&show_icons=true)
 </div>
 
 ### Technologies that i know
