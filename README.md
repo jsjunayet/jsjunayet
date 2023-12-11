@@ -7,10 +7,11 @@ Hello! My name’s Junayet Shiblu. Passionate  MERN stack developer who loves ma
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=jsjunayet&theme=monokai" alt="GitHub Streak" />
   </a> 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jsjunayet&show_icons=true) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsjunayet)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jsjunayet&show_icons=true)
 
 </div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsjunayet)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Technologies that i know
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,mongodb,expressjs,react,nodejs,)](https://skillicons.dev)
