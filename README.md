@@ -10,10 +10,6 @@ Hello! My name’s Junayet Shiblu. Passionate  MERN stack developer who loves ma
   
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jsjunayet&show_icons=true)
 </div>
-### Social connectivity
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/jsjunayet73)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>]([junayetshiblu0@gmail.com](https://myaccount.google.com/?hl=en&utm_source=OGB&utm_medium=act))  
-
 
 ### Technologies that i know
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,mongodb,expressjs,react,nodejs,)](https://skillicons.dev)
