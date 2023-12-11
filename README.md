@@ -16,6 +16,11 @@ Hello! My name’s Junayet Shiblu. Passionate  MERN stack developer who loves ma
 ### Technologies that i know
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,mongodb,expressjs,react,nodejs,)](https://skillicons.dev)
 
+## My Project 
+#### This projects used React, Nodejs, mongodb and react tools. Full MERN stack website.
+- Employee Managment websiste Live-Link : https://splendid-stardust-cf0114.netlify.app/
+- Hotel Booking website Live Link : https://adorable-horse-3c6729.netlify.app/
+-  Technology and Electronics Live link : https://inspiring-churros-226b0a.netlify.app/
 
 
 
