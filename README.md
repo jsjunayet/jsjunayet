@@ -14,11 +14,11 @@ Hello! My name’s Junayet Shiblu. Passionate  MERN stack developer who loves ma
 </div>
 
 ### Technologies that i know
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,mongodb,expressjs,react,nodejs,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,mongodb,expressjs,react,nodejs,nextjs,mui)](https://skillicons.dev)
 
 ## My Project 
 #### This projects used React, Nodejs, mongodb and react tools. Full MERN stack website.
-- Hotel Booking website Live Link : https://client-inky-alpha.vercel.app/
+- Hotel Booking website Live Link : https://bookingsite-omega.vercel.app
 -  Team work Live link : https://electronic-voting-system-beta.vercel.app/
 - Employee Managment websiste Live-Link : https://splendid-stardust-cf0114.netlify.app/
 -  My Portfolio Live link : https://junayet73.netlify.app/
