@@ -14,7 +14,7 @@ Hello! My name’s Junayet Shiblu. Passionate  MERN stack developer who loves ma
 </div>
 
 ### Technologies that i know
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,firebase,mongodb,expressjs,react,nodejs,nextjs,mui,java,c)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,firebase,mongodb,expressjs,nodejs,mui,java,c)](https://skillicons.dev)
 
 ## My Project 
 #### This projects used React, Nodejs, mongodb and react tools. Full MERN stack website.
