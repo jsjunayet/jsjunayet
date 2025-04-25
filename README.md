@@ -1,13 +1,16 @@
-<h1 align="center" style="font-family: 'Roboto', sans-serif;">Hello and welcome to my GitHub profile 👋</h1>
+<h1 align="center">Welcome to My GitHub Profile 👋</h1>
 
-<p align="center" style="font-family: 'Roboto', sans-serif;">
-  I am <strong>Junayet Shiblu</strong>, a passionate Web Developer from Brahmanbaria, Bangladesh 🇧🇩
+<p align="center">
+  I’m <strong>Junayet Shiblu</strong>, a dedicated <strong>Full-Stack Developer</strong> from Brahmanbaria, Bangladesh 🇧🇩
 </p>
 
-<p align="center" style="font-family: 'Roboto', sans-serif;">
-  I'm an <strong>aspiring full-stack web developer</strong> with a strong passion for creating <strong>powerful web applications</strong>. Currently <strong>interning at CloudGen</strong>, I’m focused on building real-world <strong>SaaS projects</strong> using <strong>React.js</strong>, <strong>Next.js</strong>, <strong>Node.js</strong>, and <strong>MongoDB</strong>. <br>
-  Always eager to <strong>learn</strong> and <strong>grow</strong>. 🚀
+<p align="center">
+  Currently pursuing a <strong>BSc in Computer Science & Engineering</strong> under the <strong> Dhaka University Technology Unit </strong><br>
+  and working as a <strong>Web Developer Intern at CloudGen</strong>.<br>
+  I specialize in building scalable and efficient <strong>SaaS applications</strong> using <strong>React.js</strong>, <strong>Next.js</strong>, <strong>Node.js</strong>, and <strong>MongoDB</strong>. <br>
+  Passionate about continuous learning, solving real-world problems, and growing as a developer. 🚀
 </p>
+
 
 
 ---
