@@ -22,7 +22,7 @@
 
 ## 💻 Internship & Team Projects
 
-| Name          | Description                                                                 | GitHub Link                                                 | Live Demo Link                                            |
+| Name          | Description                                                                 | GitHub Link                                                 | Live Link                                            |
 |---------------|-----------------------------------------------------------------------------|-------------------------------------------------------------|-----------------------------------------------------------|
 | E-Store       | Full-stack eCommerce website for online shopping, featuring product listings, user authentication, and a smooth checkout experience. | [GitHub](https://github.com/abidt20ahmed/e-store)           | [Live Demo](https://e-store-green.vercel.app/)            |
 | Parcel-Trade  | A scalable eCommerce platform built with Next.js and Node.js.               | [GitHub](https://github.com/junayetshiblu/gen-tranz)        | [Live Demo](https://parcel-trade.vercel.app/)             |
@@ -32,12 +32,14 @@
 
 ## 💼 Solo Projects
 
-| Name                    | Description                                                                | GitHub Link                                                 | Live Demo Link                                           |
+| Name                    | Description                                                                | GitHub Link                                                 | Live Link                                           |
 |-------------------------|----------------------------------------------------------------------------|-------------------------------------------------------------|----------------------------------------------------------|
-| Blood Donation App       | A platform to connect blood donors with hospitals and needy individuals.   | [GitHub](https://github.com/jsjunayet/blood_donation_project) | [Live Demo](#)                                           |
+| CarWebsite                Car Website	A website for browsing and booking cars online, with detailed listings and filters.|[GitHub](https://github.com/jsjunayet/car_website) |  [Live Demo](https://incredible-muffin-bdd553.netlify.app/)
 | Online Booking System    | A platform to allow users to book appointments and reservations online.    | [GitHub](https://github.com/jsjunayet/BookingWebsite)        | [Live Demo](https://client-inky-alpha.vercel.app/)        |
 | ResearchUstad            | A web app designed for research collaboration and management.              | [GitHub](https://github.com/jsjunayet/researchustad_backend) | [Live Demo](https://r-ustad.vercel.app/)                 |
 | Restaurant Management System | A comprehensive management tool for restaurants including ordering, reservations, and staff management. | [GitHub](https://github.com/jsjunayet/bistro-boss-clientsite) | [Live Demo](https://junayetrestaurantwebsite.netlify.app/) |
+| Blood Donation App       | A platform to connect blood donors with hospitals and needy individuals.   | [GitHub](https://github.com/jsjunayet/blood_donation_project) | [Live Demo](#)                                           |
+
 
 
 
