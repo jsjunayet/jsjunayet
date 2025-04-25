@@ -1,68 +1,59 @@
-<h1 align="center">Hi there my gorgeous friend 👋</h1>
+<h1 align="center">Hello and welcome to my GitHub profile 👋</h1>
 
 <p align="center">
   I am <strong>Junayet Shiblu</strong>, a passionate Web Developer from Brahmanbaria, Bangladesh 🇧🇩
 </p>
 
 <p align="center">
-  Welcome to my GitHub profile! I'm an aspiring full-stack web developer with a strong passion for creating powerful web applications. Currently interning at CloudGen, I’m focused on building real-world SaaS projects using React.js, Next.js, Node.js, and MongoDB. Always eager to learn and grow. 🚀
+  I'm an <strong>aspiring full-stack web developer</strong> with a strong passion for creating <strong>powerful web applications</strong>. Currently <strong>interning at CloudGen</strong>, I’m focused on building real-world <strong>SaaS projects</strong> using <strong>React.js</strong>, <strong>Next.js</strong>, <strong>Node.js</strong>, and <strong>MongoDB</strong>. <br>
+  Always eager to <strong>learn</strong> and <strong>grow</strong>. 🚀
 </p>
 
 ---
 
 ## 🌐 Connect with me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)]([https://your-portfolio-link.com](https://junayet73.netlify.app/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/jsjunayet/))
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:junayetshiblu0@gmail.com)
+[![Facebook](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]([https://twitter.com/yourhandle](https://www.facebook.com/jsjunayet73/))
 
 ---
 
-## 🧠 Problem Solving
+## 💻 Internship & Team Projects
 
-| Judge         | Count    | Profile Link                            | Rating(Max) |
-|---------------|----------|-----------------------------------------|-------------|
-| Codeforces    | 250+     | [Codeforces](https://codeforces.com)    | 987         |
-| LeetCode      | 100+     | [LeetCode](https://leetcode.com)        | —           |
-| CodeChef      | 150+     | [CodeChef](https://codechef.com)        | 1210        |
-| HackerRank    | ✅        | [HackerRank](https://hackerrank.com)    | —           |
-
----
-
-## 💻 Projects
-
-| Name         | Description                                                                 | Project Link |
-|--------------|-----------------------------------------------------------------------------|--------------|
-| GenTranz     | A scalable eCommerce platform built with Next.js and Node.js.               | [GitHub](https://github.com/junayetshiblu/gen-tranz) |
-| SimplyDone   | A full-stack TODO app with role-based backend and ALB-deployed frontend.    | [GitHub](https://github.com/junayetshiblu/simplydone) |
-| R_Queue      | A distributed job queue system supporting retry/failure handling.           | [GitHub](https://github.com/junayetshiblu/r_queue) |
+| Name         | Description                                                                 | GitHub Link                                                 | Live Demo Link                                            |
+|--------------|-----------------------------------------------------------------------------|-------------------------------------------------------------|-----------------------------------------------------------|
+| GenTranz     | A scalable eCommerce platform built with Next.js and Node.js.               | [GitHub](https://github.com/junayetshiblu/gen-tranz)        | [Live Demo](#)                                            |
+| SimplyDone   | A full-stack TODO app with role-based backend and ALB-deployed frontend.    | [GitHub](https://github.com/junayetshiblu/simplydone)       | [Live Demo](#)                                            |
+| R_Queue      | A distributed job queue system supporting retry/failure handling.           | [GitHub](https://github.com/junayetshiblu/r_queue)          | [Live Demo](#)                                            |
 
 ---
 
-## ☁️ Cloud, DevOps & Testing
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![ViteTest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
+## 💼 Solo Projects
+
+| Name         | Description                                                                | GitHub Link                                                 | Live Demo Link                                           |
+|--------------|----------------------------------------------------------------------------|-------------------------------------------------------------|----------------------------------------------------------|
+| ProjectName  | Brief description of your solo project here.                               | [GitHub](#)                                                 | [Live Demo](#)                                           |
+| AnotherSolo  | Brief description of your solo project here.                               | [GitHub](#)                                                 | [Live Demo](#)                                           |
+
 
 ---
 
-## 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-800000?style=for-the-badge&logo=mongoose&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+## ☁️ Deployment
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 
 ---
 
 ## 🧑‍💻 Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-Principles-8E44AD?style=for-the-badge)
 
 ---
 
@@ -70,9 +61,10 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 ![RTK Query](https://img.shields.io/badge/RTK_Query-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-EF00FF?style=for-the-badge&logo=framer&logoColor=white)
+![NextAuth](https://img.shields.io/badge/NextAuth-2D2D2D?style=for-the-badge&logo=next.js&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Material UI](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
 ![DaisyUI](https://img.shields.io/badge/DaisyUI-FFA500?style=for-the-badge&logo=daisyui&logoColor=white)
@@ -84,6 +76,25 @@
 ![Express](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
 ![Zod](https://img.shields.io/badge/Zod-4B5563?style=for-the-badge&logo=zod&logoColor=white)
+
+---
+
+## 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-800000?style=for-the-badge&logo=mongoose&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![MySQL](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+
+---
+
+## 🧪 Testing / DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
 
 ---
 
