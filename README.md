@@ -1,13 +1,14 @@
-<h1 align="center">Hello and welcome to my GitHub profile 👋</h1>
+<h1 align="center" style="font-family: 'Roboto', sans-serif;">Hello and welcome to my GitHub profile 👋</h1>
 
-<p align="center">
+<p align="center" style="font-family: 'Roboto', sans-serif;">
   I am <strong>Junayet Shiblu</strong>, a passionate Web Developer from Brahmanbaria, Bangladesh 🇧🇩
 </p>
 
-<p align="center">
+<p align="center" style="font-family: 'Roboto', sans-serif;">
   I'm an <strong>aspiring full-stack web developer</strong> with a strong passion for creating <strong>powerful web applications</strong>. Currently <strong>interning at CloudGen</strong>, I’m focused on building real-world <strong>SaaS projects</strong> using <strong>React.js</strong>, <strong>Next.js</strong>, <strong>Node.js</strong>, and <strong>MongoDB</strong>. <br>
   Always eager to <strong>learn</strong> and <strong>grow</strong>. 🚀
 </p>
+
 
 ---
 
@@ -32,9 +33,9 @@
 
 ## 💼 Solo Projects
 
-| Name                    | Description                                                                | GitHub Link                                                 | Live Link                                           |
+| Name                    | Description                                                                | GitHub Link                                                 | Live Demo Link                                           |
 |-------------------------|----------------------------------------------------------------------------|-------------------------------------------------------------|----------------------------------------------------------|
-| CarWebsite                Car Website	A website for browsing and booking cars online, with detailed listings and filters.|[GitHub](https://github.com/jsjunayet/car_website) |  [Live Demo](https://incredible-muffin-bdd553.netlify.app/)
+| CarWebsite               | Car Website	A website for browsing and booking cars online, with detailed listings and filters. | [GitHub](https://github.com/jsjunayet/car_website) |  [Live Demo](https://incredible-muffin-bdd553.netlify.app/)
 | Online Booking System    | A platform to allow users to book appointments and reservations online.    | [GitHub](https://github.com/jsjunayet/BookingWebsite)        | [Live Demo](https://client-inky-alpha.vercel.app/)        |
 | ResearchUstad            | A web app designed for research collaboration and management.              | [GitHub](https://github.com/jsjunayet/researchustad_backend) | [Live Demo](https://r-ustad.vercel.app/)                 |
 | Restaurant Management System | A comprehensive management tool for restaurants including ordering, reservations, and staff management. | [GitHub](https://github.com/jsjunayet/bistro-boss-clientsite) | [Live Demo](https://junayetrestaurantwebsite.netlify.app/) |
