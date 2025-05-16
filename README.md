@@ -38,6 +38,8 @@
 
 | Name                    | Description                                                                | GitHub Link                                                 | Live Demo Link                                           |
 |-------------------------|----------------------------------------------------------------------------|-------------------------------------------------------------|----------------------------------------------------------|
+| Street Food Finder       | A full-stack Street Food Finder web app where users can post, discover, rate, and review street food spots, with premium features (via SSLCommerz/ShurjoPay) and admin-controlled content moderation. Built using Next.js, Tailwind, Node.js, Express, Prisma, PostgreSQL, and JWT, it includes authentication, premium post access, payment integration, and a fully responsive UI | [GitHub]((https://github.com/jsjunayet/street_food_frontend) |  [Live Demo]((https://streegrub.vercel.app/)
+
 | CarWebsite               | Car Website	A website for browsing and booking cars online, with detailed listings and filters. | [GitHub](https://github.com/jsjunayet/car_website) |  [Live Demo](https://incredible-muffin-bdd553.netlify.app/)
 | Online Booking System    | A platform to allow users to book appointments and reservations online.    | [GitHub](https://github.com/jsjunayet/BookingWebsite)        | [Live Demo](https://client-inky-alpha.vercel.app/)        |
 | ResearchUstad            | A web app designed for research collaboration and management.              | [GitHub](https://github.com/jsjunayet/researchustad_backend) | [Live Demo](https://r-ustad.vercel.app/)                 |
