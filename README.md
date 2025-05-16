@@ -28,8 +28,8 @@
 
 | Name          | Description                                                                 | GitHub Link                                                 | Live Demo Link                                            |
 |---------------|-----------------------------------------------------------------------------|-------------------------------------------------------------|-----------------------------------------------------------|
-| E-Store       | Full-stack eCommerce website for online shopping, featuring product listings, user authentication, and a smooth checkout experience. | [GitHub](https://github.com/abidt20ahmed/e-store)           | [Live Demo](https://e-store-green.vercel.app/)            |
 | Parcel-Trade  | A scalable eCommerce platform built with Next.js and Node.js.               | [GitHub](https://github.com/junayetshiblu/gen-tranz)        | [Live Demo](https://parcel-trade.vercel.app/)             |
+| E-Store       | Full-stack eCommerce website for online shopping, featuring product listings, user authentication, and a smooth checkout experience. | [GitHub](https://github.com/abidt20ahmed/e-store)           | [Live Demo](https://e-store-green.vercel.app/)            |
 | Voting System | An online voting platform built for secure, transparent voting in various events and elections, supporting real-time results and retry mechanisms. | [GitHub](https://github.com/dreamwarrior6m/Electronic-Voting-System) | [Live Demo](https://electronic-voting-system-beta.vercel.app/) |
 
 ---
