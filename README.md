@@ -34,23 +34,18 @@
 
 ---
 
-## 💼 Solo Projects
+# 💼 Solo Projects
 
-| Name                    | Description                                                                | GitHub Link                                                 | Live Demo Link                                           |
-|-------------------------|----------------------------------------------------------------------------|-------------------------------------------------------------|----------------------------------------------------------|
-| Street Food Finder       | A full-stack Street Food Finder web app where users can post, discover, rate, and review street food spots, with premium features (via SSLCommerz/ShurjoPay) and admin-controlled content moderation. Built using Next.js, Tailwind, Node.js, Express, Prisma, PostgreSQL, and JWT, it includes authentication, premium post access, payment integration, and a fully responsive UI | [GitHub]((https://github.com/jsjunayet/street_food_frontend) |  [Live Demo]((https://streegrub.vercel.app/)
+Here is a collection of my solo full-stack and frontend web development projects. Each project includes GitHub repositories and live demo links.
 
-| CarWebsite               | Car Website	A website for browsing and booking cars online, with detailed listings and filters. | [GitHub](https://github.com/jsjunayet/car_website) |  [Live Demo](https://incredible-muffin-bdd553.netlify.app/)
-| Online Booking System    | A platform to allow users to book appointments and reservations online.    | [GitHub](https://github.com/jsjunayet/BookingWebsite)        | [Live Demo](https://client-inky-alpha.vercel.app/)        |
-| ResearchUstad            | A web app designed for research collaboration and management.              | [GitHub](https://github.com/jsjunayet/researchustad_backend) | [Live Demo](https://r-ustad.vercel.app/)                 |
-| Restaurant Management System | A comprehensive management tool for restaurants including ordering, reservations, and staff management. | [GitHub](https://github.com/jsjunayet/bistro-boss-clientsite) | [Live Demo](https://junayetrestaurantwebsite.netlify.app/) |
-| Blood Donation App       | A platform to connect blood donors with hospitals and needy individuals.   | [GitHub](https://github.com/jsjunayet/blood_donation_project) | [Live Demo](#)                                           |
-
-
-
-
-
-
+| Project Name                 | Description                                                                                                                                     | GitHub Link                                                                                  | Live Demo Link                                             |
+|-----------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|------------------------------------------------------------|
+| **Street Food Finder**      | A full-stack web app to discover, post, rate, and review street food spots. Includes premium features via **SSLCommerz/ShurjoPay**, user authentication (JWT), role-based access, and admin content moderation. Built with **Next.js**, **Tailwind CSS**, **Node.js**, **Express**, **Prisma**, **PostgreSQL**. | [GitHub](https://github.com/jsjunayet/street_food_frontend)                                 | [Live Demo](https://streegrub.vercel.app/)                 |
+| **Car Website**             | A frontend website for browsing and booking cars online. Features car listings, detailed views, and filters for easier search experience.       | [GitHub](https://github.com/jsjunayet/car_website)                                           | [Live Demo](https://incredible-muffin-bdd553.netlify.app/) |
+| **Online Booking System**   | A platform where users can book appointments and reservations with available service providers.                                                  | [GitHub](https://github.com/jsjunayet/BookingWebsite)                                        | [Live Demo](https://client-inky-alpha.vercel.app/)         |
+| **ResearchUstad**           | A research collaboration platform for academics and professionals. Allows managing research tasks, members, and project timelines.               | [GitHub](https://github.com/jsjunayet/researchustad_backend)                                 | [Live Demo](https://r-ustad.vercel.app/)                   |
+| **Restaurant Management System** | A full-featured restaurant management tool for orders, reservations, and staff/admin controls. Built with React and Firebase.                        | [GitHub](https://github.com/jsjunayet/bistro-boss-clientsite)                                | [Live Demo](https://junayetrestaurantwebsite.netlify.app/) |
+| **Blood Donation App**      | A community platform to connect blood donors with recipients and hospitals. Includes donor registration, search, and emergency features.         | [GitHub](https://github.com/jsjunayet/blood_donation_project)                                | [Live Demo](#) *(Coming Soon)*                            |
 
 ---
 
