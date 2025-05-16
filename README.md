@@ -24,6 +24,16 @@
 
 ---
 
+## 💼 Experience (6 months)
+
+**Web Developer Intern**  
+**CloudGen (Paid Internship)**  
+*Aug 2024 – Dec 2024 (4 Months)*  
+- Successfully completed a 4-month paid internship at CloudGen.  
+- Worked collaboratively in a team environment for 2 months on real-world **Next.js** and **MERN Stack** projects.  
+- Contributed to frontend and backend development, focusing on performance, clean code practices, and responsive design.  
+- Gained hands-on experience in version control (Git), API integration, and project deployment.
+
 ## 💻 Internship & Team Projects
 
 | Name          | Description                                                                 | GitHub Link                                                 | Live Demo Link                                            |
