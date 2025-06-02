@@ -51,7 +51,7 @@ Here is a collection of my solo full-stack and frontend web development projects
 | Project Name                 | Description                                                                                                                                     | GitHub Link                                                                                  | Live Demo Link                                             |
 |-----------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|------------------------------------------------------------|
 | **Street Food Finder**      | A full-stack web app to discover, post, rate, and review street food spots. Includes premium features via **SSLCommerz/ShurjoPay**, user authentication (JWT), role-based access, and admin content moderation. Built with **Next.js**, **Tailwind CSS**, **Node.js**, **Express**, **Prisma**, **PostgreSQL**. | [GitHub](https://github.com/jsjunayet/street_food_frontend)                                 | [Live Demo](https://streegrub.vercel.app/)                 |
-| **Car Website**             | A frontend website for browsing and booking cars online. Features car listings, detailed views, and filters for easier search experience.       | [GitHub](https://github.com/jsjunayet/car_website)                                           | [Live Demo](https://incredible-muffin-bdd553.netlify.app/) |
+| **Car Website**             | A frontend website for browsing and booking cars online. Features car listings, detailed views, and filters for easier search experience.       | [GitHub](https://github.com/jsjunayet/car_website)                                           | [Live Demo]([https://incredible-muffin-bdd553.netlify.app](https://carwebsite-five.vercel.app/)) |
 | **Online Booking System**   | A platform where users can book appointments and reservations with available service providers.                                                  | [GitHub](https://github.com/jsjunayet/BookingWebsite)                                        | [Live Demo](https://client-inky-alpha.vercel.app/)         |
 | **ResearchUstad**           | A research collaboration platform for academics and professionals. Allows managing research tasks, members, and project timelines.               | [GitHub](https://github.com/jsjunayet/researchustad_backend)                                 | [Live Demo](https://r-ustad.vercel.app/)                   |
 | **Blood Donation App**      | A community platform to connect blood donors with recipients and hospitals. Includes donor registration, search, and emergency features.         | [GitHub](https://github.com/jsjunayet/blood_donation_project)                                | [Live Demo](#) *(Coming Soon)*                            |
@@ -121,5 +121,11 @@ Here is a collection of my solo full-stack and frontend web development projects
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
+## 📊 &nbsp;Stats
+
+![Cyris' Github Stats](https://github-readme-stats.vercel.app/api?username=jsjunayet&hide=contribs,prs&show_icons=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jsjunayet&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
+
 
 <p align="center">✨ Thank you for visiting my profile ✨</p>
