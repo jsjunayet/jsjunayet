@@ -1,10 +1,10 @@
 <h1 align="center">Welcome to My GitHub Profile 👋</h1>
 
-<p align="center">
+<p>
   I’m <strong>Junayet Shiblu</strong>, a dedicated <strong>Full-Stack Developer</strong> from Brahmanbaria, Bangladesh 🇧🇩
 </p>
 
-<p align="center">
+<p>
   Currently pursuing a <strong>BSc in Computer Science & Engineering</strong> under the <strong> Dhaka University Technology Unit </strong><br>
   and working as a <strong>Web Developer Intern at CloudGen</strong>.<br>
   I specialize in building scalable and efficient <strong>SaaS applications</strong> using <strong>React.js</strong>, <strong>Next.js</strong>, <strong>Node.js</strong>, and <strong>MongoDB</strong>. <br>
@@ -17,7 +17,7 @@
 
 ## 🌐 Connect with me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://junayet73.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)]([https://junayet73.netlify.app/](https://junayet73.vercel.app/))
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jsjunayet/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:junayetshiblu0@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/jsjunayet73/)
@@ -51,8 +51,7 @@ Here is a collection of my solo full-stack and frontend web development projects
 | Project Name                 | Description                                                                                                                                     | GitHub Link                                                                                  | Live Demo Link                                             |
 |-----------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|------------------------------------------------------------|
 | **Street Food Finder**      | A full-stack web app to discover, post, rate, and review street food spots. Includes premium features via **SSLCommerz/ShurjoPay**, user authentication (JWT), role-based access, and admin content moderation. Built with **Next.js**, **Tailwind CSS**, **Node.js**, **Express**, **Prisma**, **PostgreSQL**. | [GitHub](https://github.com/jsjunayet/street_food_frontend)                                 | [Live Demo](https://streegrub.vercel.app/)                 |
-| **Car Website**             | A frontend website for browsing and booking cars online. Features car listings, detailed views, and filters for easier search experience.       | [GitHub](https://github.com/jsjunayet/car_website)                                           | [Live Demo]([https://incredible-muffin-bdd553.netlify.app](https://carwebsite-five.vercel.app/)) |
-| **Online Booking System**   | A platform where users can book appointments and reservations with available service providers.                                                  | [GitHub](https://github.com/jsjunayet/BookingWebsite)                                        | [Live Demo](https://client-inky-alpha.vercel.app/)         |
+| **Car Website**             | A frontend website for browsing and booking cars online. Features car listings, detailed views, and filters for an easier search experience.       | [GitHub](https://github.com/jsjunayet/car_website)                                           | [Live Demo]([https://incredible-muffin-bdd553.netlify.app](https://carwebsite-five.vercel.app/)) |
 | **ResearchUstad**           | A research collaboration platform for academics and professionals. Allows managing research tasks, members, and project timelines.               | [GitHub](https://github.com/jsjunayet/researchustad_backend)                                 | [Live Demo](https://r-ustad.vercel.app/)                   |
 | **Blood Donation App**      | A community platform to connect blood donors with recipients and hospitals. Includes donor registration, search, and emergency features.         | [GitHub](https://github.com/jsjunayet/blood_donation_project)                                | [Live Demo](#) *(Coming Soon)*                            |
 
