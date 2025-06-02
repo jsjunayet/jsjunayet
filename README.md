@@ -16,7 +16,7 @@
 
 ## 🌐 Connect with me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)]([https://junayet73.netlify.app/](https://junayet73.vercel.app/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-28A745?style=for-the-badge&logo=vercel&logoColor=white)](https://junayet73.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jsjunayet/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:junayetshiblu0@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/jsjunayet73/)
