@@ -3,7 +3,6 @@
 <p>
   I’m <strong>Junayet Shiblu</strong>, a dedicated <strong>Full-Stack Developer</strong> from Brahmanbaria, Bangladesh 🇧🇩
 </p>
-
 <p>
   Currently pursuing a <strong>BSc in Computer Science & Engineering</strong> under the <strong> Dhaka University Technology Unit </strong><br>
   and working as a <strong>Web Developer Intern at CloudGen</strong>.<br>
